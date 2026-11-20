@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alextangggwp-prog.github.io/sitemap_index.xml
+Sitemap: http://is4340-search-engine-optimization-hk-pixel-play.local/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
